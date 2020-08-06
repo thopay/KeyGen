@@ -107,4 +107,4 @@ Distributed under the MIT License.
 
 Thomas - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
 
-Project Link: [https://github.com/th-ms/PogHook](https://github.com/th-ms/PogHook)
+Project Link: [https://github.com/th-ms/KeyGen](https://github.com/th-ms/KeyGen)
