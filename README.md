@@ -7,12 +7,12 @@
   <p align="center">
     It generates keys.
     <br />
-    <a href="https://github.com/th-ms/KeyGen/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/thopay/KeyGen/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/th-ms/KeyGen/">Report Bug</a>
+    <a href="https://github.com/thopay/KeyGen/">Report Bug</a>
     ·
-    <a href="https://github.com/th-ms/KeyGen/">Request Feature</a>
+    <a href="https://github.com/thopay/KeyGen/">Request Feature</a>
   </p>
 </p>
 
@@ -58,7 +58,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/th-ms/KeyGen.git
+git clone https://github.com/thopay/KeyGen.git
 ```
 2. Run the script
 ```sh
@@ -107,4 +107,4 @@ Distributed under the MIT License.
 
 Thomas - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
 
-Project Link: [https://github.com/th-ms/KeyGen](https://github.com/th-ms/KeyGen)
+Project Link: [https://github.com/thopay/KeyGen](https://github.com/thopay/KeyGen)
